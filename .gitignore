@@ -1,0 +1,16 @@
+# IDE
+.idea/
+
+# Go 编译产物
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.test
+*.out
+
+# Go 依赖与工作区
+/vendor/
+go.work
+go.work.sum
